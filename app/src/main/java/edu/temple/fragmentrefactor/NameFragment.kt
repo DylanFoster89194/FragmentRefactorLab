@@ -9,6 +9,7 @@ import android.widget.EditText
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 
+
 class NameFragment : Fragment() {
 
     override fun onCreateView(

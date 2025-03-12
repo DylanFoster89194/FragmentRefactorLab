@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <!-- FrameLayout to host the fragment -->
     <FrameLayout
         android:id="@+id/fragment_container"
@@ -13,3 +14,4 @@
         android:layout_height="match_parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
